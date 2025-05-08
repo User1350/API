@@ -1,3 +1,14 @@
+npm install
+node -v
+npm i express
+npm i mongodb
+
+run it by using  node index.js
+
+
+
+
+
 const dbConnect=require('./mongodb');
 const express=require('express');
 const {response}=require('express');
