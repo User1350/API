@@ -4,7 +4,9 @@ npm i express
 npm i mongodb
 
 run it by using  node index.js
-
+And on Postman
+localhost:3000/
+localhost:3000/name
 
 
 
